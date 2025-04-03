@@ -1,4 +1,4 @@
-<h1>Avalie seu mentor</h1>
+<h1>Agende sua mentoria!</h1>
 
 <p>Este projeto é um formulário para agendar sua mentoria</p>
 
